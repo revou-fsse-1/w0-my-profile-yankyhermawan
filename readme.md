@@ -3,7 +3,7 @@
 ## My Bio
 Halo, saya Yanky Hermawan. Saya lulusan Teknik Sipil UK Petra. Lulus pada Agustus 2022.
 
-![Yanky Hermawan Photo](223086-1.jpg)
+![Yanky Hermawan Photo](photos/223086-1.jpg)
 
 Lulusan S1 Teknik Sipil. Memiliki pengalaman di bidang Pengawasan Proyek dan Digital Marketing .
 Suka dengan sesuatu yang baru.
